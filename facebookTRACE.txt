@@ -1,0 +1,1150 @@
+== Info: Expire in 0 ms for 6 (transfer 0x51cff0)
+== Info: Expire in 1 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 1 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 1 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 1 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 1 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 1 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 1 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 1 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 1 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 1 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 1 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 1 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 1 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 1 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 1 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 1 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 1 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 1 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 1 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 2 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 2 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 2 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 2 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 2 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 2 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 2 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 2 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 2 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 2 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 2 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 2 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 2 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 2 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 2 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 2 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 2 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 2 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 2 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 2 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 2 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 2 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 2 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 2 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 2 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 2 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 2 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 2 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 2 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 2 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 2 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 2 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 2 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 2 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 2 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 2 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 2 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 2 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 2 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 2 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 2 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 2 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 2 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 2 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 2 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 2 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 2 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 2 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 2 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 2 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 2 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 2 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 2 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 2 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 2 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 2 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 2 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 2 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 1 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 2 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 1 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 1 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 4 ms for 1 (transfer 0x51cff0)
+== Info:   Trying 31.13.81.36...
+== Info: TCP_NODELAY set
+== Info: Expire in 200 ms for 4 (transfer 0x51cff0)
+== Info: Connected to facebook.com (31.13.81.36) port 443 (#0)
+== Info: ALPN, offering h2
+== Info: ALPN, offering http/1.1
+== Info: successfully set certificate verify locations:
+== Info:   CAfile: C:\Program Files\curl-7.64.0-win64-mingw\bin\curl-ca-bundle.crt
+  CApath: none
+=> Send SSL data, 5 bytes (0x5)
+0000: .....
+== Info: TLSv1.3 (OUT), TLS handshake, Client hello (1):
+=> Send SSL data, 512 bytes (0x200)
+0000: .......*.1z..sT......p6..;:WG..v..v.5J *.S....]...U.....\YP.$...
+0040: .D...<f.>.......,.0.........+./...$.(.k.#.'.g.....9.....3.....=.
+0080: <.5./.....u.........facebook.com........................3t......
+00c0: ...h2.http/1.1.........1.....0..................................
+0100: ...............+............-.....3.&.$... D.].].4T.....T..^.c.
+0140: `.....g.9. .....................................................
+0180: ................................................................
+01c0: ................................................................
+<= Recv SSL data, 5 bytes (0x5)
+0000: ....z
+== Info: TLSv1.3 (IN), TLS handshake, Server hello (2):
+<= Recv SSL data, 122 bytes (0x7a)
+0000: ...v..s..G.....u....Y..(3>...Z..p....; *.S....]...U.....\YP.$...
+0040: .D...<f......+.....3.$... .> .......SK.z.(.'..g6..wQ......
+<= Recv SSL data, 5 bytes (0x5)
+0000: .....
+<= Recv SSL data, 5 bytes (0x5)
+0000: .....
+<= Recv SSL data, 1 bytes (0x1)
+0000: .
+== Info: TLSv1.3 (IN), TLS handshake, Encrypted Extensions (8):
+<= Recv SSL data, 15 bytes (0xf)
+0000: .............h2
+<= Recv SSL data, 5 bytes (0x5)
+0000: .....
+<= Recv SSL data, 1 bytes (0x1)
+0000: .
+<= Recv SSL data, 5 bytes (0x5)
+0000: .....
+<= Recv SSL data, 1 bytes (0x1)
+0000: .
+== Info: TLSv1.3 (IN), TLS handshake, Certificate (11):
+<= Recv SSL data, 2810 bytes (0xafa)
+0000: ..........30../0...............-a?d......k0...*.H........0p1.0..
+0040: .U....US1.0...U....DigiCert Inc1.0...U....www.digicert.com1/0-..
+0080: U...&DigiCert SHA2 High Assurance Server CA0...190121000000Z..19
+00c0: 0421120000Z0a1.0...U....US1.0...U....CA1.0...U....Menlo Park1.0.
+0100: ..U....Facebook, Inc.1.0...U....*.facebook.com0Y0...*.H.=....*.H
+0140: .=....B...u.0N.1".Z...+.... \..(..da.>..1.F.n:..N.z..$.P..*T4..r
+0180: D.{j.>.......0...0...U.#..0...Qh.....u<..edb...Yr;0...U......{..
+01c0: .jH......B....t.[0....U.....0....*.facebook.com..*.messenger.com
+0200: ..*.facebook.net..messenger.com..*.fbsbx.com..*.xz.fbcdn.net..*.
+0240: fbcdn.net..fb.com..*.fb.com..*.m.facebook.com..facebook.com..*.x
+0280: y.fbcdn.net..*.xx.fbcdn.net0...U...........0...U.%..0...+.......
+02c0: ..+.......0u..U...n0l04.2.0..http://crl3.digicert.com/sha2-ha-se
+0300: rver-g6.crl04.2.0..http://crl4.digicert.com/sha2-ha-server-g6.cr
+0340: l0L..U. .E0C07..`.H...l..0*0(..+.........https://www.digicert.co
+0380: m/CPS0...g.....0....+........w0u0$..+.....0...http://ocsp.digice
+03c0: rt.com0M..+.....0..Ahttp://cacerts.digicert.com/DigiCertSHA2High
+0400: AssuranceServerCA.crt0...U.......0.0.....+.....y............u..K
+0440: ..u.`..Bi....f..~_.r....{.z......hrE.......F0D. y.1...Yl|...8...
+0480: S..>..<f..Pn<.... d..-......4....R...m.!...........v..u..Y|..C._
+04c0: ..n.V.GV6.J.`....^......hrE.......G0E. o:.........w'..+ .j=....;
+0500: ....L...!.....!...2.UE.C4.[..x\..>.I.....V0...*.H...............
+0540: ..;.B.,X:...<yR.9...Q...y8..5..0{...6.. md.y..:.R.x.."z(fj...
+0580: O|J........af..]B....z............p.f..u..r/.....lY...Im.Ry.Fo^.
+05c0: d...b........cI.g...1.t.....w.........#.E.j...u...8gU..q...Y.M..
+0600: .o...@]...,.s.w...C^x.r..q..&.g:.....^@..'....Ec.l..8.. ....W...
+0640: ...0...0...............\..m.+B.]..0...*.H........0l1.0...U....US
+0680: 1.0...U....DigiCert Inc1.0...U....www.digicert.com1+0)..U..."Dig
+06c0: iCert High Assurance EV Root CA0...131022120000Z..281022120000Z0
+0700: p1.0...U....US1.0...U....DigiCert Inc1.0...U....www.digicert.com
+0740: 1/0-..U...&DigiCert SHA2 High Assurance Server CA0.."0...*.H....
+0780: .........0........../.$..m._...d..}"&e..B@.....v.>.0U...O..Z..UV
+07c0: ...*.....@...;r............C:.......@....M._W..Ph...............
+0800: .-..........^DX*7..5...'2Z......Q.'..;B3..(..(...+#.x.{.^q.J>...
+0840: .....#.M.....u.......D5eS%9....c...th.7..RH.9Z...]... .!..&o.J!
+0880: A..m..H/....h.S/^.........I0..E0...U.......0.......0...U........
+08c0: ...0...U.%..0...+.........+.......04..+........(0&0$..+.....0...
+0900: http://ocsp.digicert.com0K..U...D0B0@.>.<.:http://crl4.digicert.
+0940: com/DigiCertHighAssuranceEVRootCA.crl0=..U. .60402..U. .0*0(..+.
+0980: ........https://www.digicert.com/CPS0...U......Qh.....u<..edb...
+09c0: Yr;0...U.#..0....>.i...G...&....cd+.0...*.H...................m.
+0a00: \..h.J...Q/.kD...c..nl.....q.[.4N..y.).-.j.. .y...G.....Yq}...k.
+0a40: YX=..1%\.8.......[.1N.x.....I..'..r.>..A...6...nGI^.H|....I..&B
+0a80: @.....d.WT.....^k......r.V....0..0..N.W..$...+..u..-..}y'......
+0ac0: ...... (AYC(......{;w.@b..AE....>..3.g.a.r..i...W@.p......
+== Info: TLSv1.3 (IN), TLS handshake, CERT verify (15):
+<= Recv SSL data, 79 bytes (0x4f)
+0000: ...K...G0E. 4.W.5...m.8..>_...:i9>q-6...Q....!.........?'.yfi.2
+0040: x....[...6.8#.5
+== Info: TLSv1.3 (IN), TLS handshake, Finished (20):
+<= Recv SSL data, 36 bytes (0x24)
+0000: ... ..c.$2.\.2-.O........e.......c.;
+=> Send SSL data, 5 bytes (0x5)
+0000: .....
+== Info: TLSv1.3 (OUT), TLS change cipher, Change cipher spec (1):
+=> Send SSL data, 1 bytes (0x1)
+0000: .
+=> Send SSL data, 5 bytes (0x5)
+0000: ....5
+=> Send SSL data, 1 bytes (0x1)
+0000: .
+== Info: TLSv1.3 (OUT), TLS handshake, Finished (20):
+=> Send SSL data, 36 bytes (0x24)
+0000: ... .n...D.*.H.T....f.e%...x......V.
+== Info: SSL connection using TLSv1.3 / TLS_AES_128_GCM_SHA256
+== Info: ALPN, server accepted to use h2
+== Info: Server certificate:
+== Info:  subject: C=US; ST=CA; L=Menlo Park; O=Facebook, Inc.; CN=*.facebook.com
+== Info:  start date: Jan 21 00:00:00 2019 GMT
+== Info:  expire date: Apr 21 12:00:00 2019 GMT
+== Info:  subjectAltName: host "facebook.com" matched cert's "facebook.com"
+== Info:  issuer: C=US; O=DigiCert Inc; OU=www.digicert.com; CN=DigiCert SHA2 High Assurance Server CA
+== Info:  SSL certificate verify ok.
+== Info: Using HTTP2, server supports multi-use
+== Info: Connection state changed (HTTP/2 confirmed)
+== Info: Copying HTTP/2 data in stream buffer to connection buffer after upgrade: len=0
+=> Send SSL data, 5 bytes (0x5)
+0000: ....)
+=> Send SSL data, 1 bytes (0x1)
+0000: .
+=> Send SSL data, 5 bytes (0x5)
+0000: ....,
+=> Send SSL data, 1 bytes (0x1)
+0000: .
+=> Send SSL data, 5 bytes (0x5)
+0000: .....
+=> Send SSL data, 1 bytes (0x1)
+0000: .
+== Info: Using Stream ID: 1 (easy handle 0x51cff0)
+=> Send SSL data, 5 bytes (0x5)
+0000: ....7
+=> Send SSL data, 1 bytes (0x1)
+0000: .
+=> Send header, 74 bytes (0x4a)
+0000: GET / HTTP/2
+000e: Host: facebook.com
+0022: User-Agent: curl/7.64.0
+003b: Accept: */*
+0048: 
+<= Recv SSL data, 5 bytes (0x5)
+0000: .....
+<= Recv SSL data, 1 bytes (0x1)
+0000: .
+== Info: TLSv1.3 (IN), TLS handshake, Newsession Ticket (4):
+<= Recv SSL data, 141 bytes (0x8d)
+0000: ...........%..|..hx6^.)...LxWo...s.Ao....Ww...'.....}.Z.k.....>8
+0040: .$~.v.b-\(.7*.......>Y....+.`......lUJ".....$.z.W...ZcT.7.x..O..
+0080: ..O6....*....
+<= Recv SSL data, 5 bytes (0x5)
+0000: ....E
+<= Recv SSL data, 1 bytes (0x1)
+0000: .
+== Info: Connection state changed (MAX_CONCURRENT_STREAMS == 100)!
+=> Send SSL data, 5 bytes (0x5)
+0000: .....
+=> Send SSL data, 1 bytes (0x1)
+0000: .
+<= Recv SSL data, 5 bytes (0x5)
+0000: .....
+<= Recv SSL data, 1 bytes (0x1)
+0000: .
+<= Recv SSL data, 5 bytes (0x5)
+0000: .....
+<= Recv SSL data, 1 bytes (0x1)
+0000: .
+<= Recv SSL data, 5 bytes (0x5)
+0000: .....
+<= Recv SSL data, 1 bytes (0x1)
+0000: .
+<= Recv header, 13 bytes (0xd)
+0000: HTTP/2 301 
+<= Recv header, 37 bytes (0x25)
+0000: location: https://www.facebook.com/
+<= Recv header, 54 bytes (0x36)
+0000: strict-transport-security: max-age=15552000; preload
+<= Recv header, 42 bytes (0x2a)
+0000: content-type: text/html; charset="utf-8"
+<= Recv header, 102 bytes (0x66)
+0000: x-fb-debug: KaecrWAVvuAviaNPFZpaPh08Dj+B7HciCuwG9fgX9st07k8xEPMD
+0040: 21f23AS2RqXQaPdmSXZhNEJxA2Oqg/Vl+Q==
+<= Recv header, 19 bytes (0x13)
+0000: content-length: 0
+<= Recv header, 37 bytes (0x25)
+0000: date: Sat, 16 Feb 2019 13:09:55 GMT
+<= Recv header, 2 bytes (0x2)
+0000: 
+<= Recv data, 0 bytes (0x0)
+== Info: Connection #0 to host facebook.com left intact
+== Info: Issue another request to this URL: 'https://www.facebook.com/'
+== Info: Expire in 1 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 1 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 1 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 1 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 1 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 1 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 1 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 1 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 1 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 1 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 1 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 1 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 1 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 1 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 1 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 1 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 1 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 1 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 1 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 1 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 1 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 1 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 1 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 1 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 1 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 1 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 1 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 2 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 2 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 2 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 2 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 2 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 2 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 2 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 2 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 2 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 2 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 2 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 2 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 2 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 2 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 2 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 2 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 2 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 2 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 2 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 2 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 2 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 2 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 2 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 2 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 2 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 2 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 2 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 2 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 2 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 2 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 2 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 2 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 2 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 2 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 2 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 2 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 2 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 2 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 2 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 2 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 2 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 2 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 2 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 2 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 2 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 2 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 2 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 2 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info: Expire in 0 ms for 1 (transfer 0x51cff0)
+== Info:   Trying 31.13.81.36...
+== Info: TCP_NODELAY set
+== Info: Expire in 200 ms for 4 (transfer 0x51cff0)
+== Info: Connected to www.facebook.com (31.13.81.36) port 443 (#1)
+== Info: ALPN, offering h2
+== Info: ALPN, offering http/1.1
+== Info: successfully set certificate verify locations:
+== Info:   CAfile: C:\Program Files\curl-7.64.0-win64-mingw\bin\curl-ca-bundle.crt
+  CApath: none
+=> Send SSL data, 5 bytes (0x5)
+0000: .....
+== Info: TLSv1.3 (OUT), TLS handshake, Client hello (1):
+=> Send SSL data, 512 bytes (0x200)
+0000: ......J....qC..8..!N.D e.5...H......)9 ...s.K.....1j....*S.._I..
+0040: ..%h....>.......,.0.........+./...$.(.k.#.'.g.....9.....3.....=.
+0080: <.5./.....u.........www.facebook.com........................3t..
+00c0: .......h2.http/1.1.........1.....0..............................
+0100: ...................+............-.....3.&.$... ..c....D'E...3...
+0140: pr.Q..7.0{.`.l^.................................................
+0180: ................................................................
+01c0: ................................................................
+<= Recv SSL data, 5 bytes (0x5)
+0000: ....z
+== Info: TLSv1.3 (IN), TLS handshake, Server hello (2):
+<= Recv SSL data, 122 bytes (0x7a)
+0000: ...v...:h;....}.*..;$..).....6.<...... ...s.K.....1j....*S.._I..
+0040: ..%h.........+.....3.$... ._x...........h|....P....rO. .XA
+<= Recv SSL data, 5 bytes (0x5)
+0000: .....
+<= Recv SSL data, 5 bytes (0x5)
+0000: .....
+<= Recv SSL data, 1 bytes (0x1)
+0000: .
+== Info: TLSv1.3 (IN), TLS handshake, Encrypted Extensions (8):
+<= Recv SSL data, 15 bytes (0xf)
+0000: .............h2
+<= Recv SSL data, 5 bytes (0x5)
+0000: .....
+<= Recv SSL data, 1 bytes (0x1)
+0000: .
+<= Recv SSL data, 5 bytes (0x5)
+0000: .....
+<= Recv SSL data, 1 bytes (0x1)
+0000: .
+== Info: TLSv1.3 (IN), TLS handshake, Certificate (11):
+<= Recv SSL data, 2810 bytes (0xafa)
+0000: ..........30../0...............-a?d......k0...*.H........0p1.0..
+0040: .U....US1.0...U....DigiCert Inc1.0...U....www.digicert.com1/0-..
+0080: U...&DigiCert SHA2 High Assurance Server CA0...190121000000Z..19
+00c0: 0421120000Z0a1.0...U....US1.0...U....CA1.0...U....Menlo Park1.0.
+0100: ..U....Facebook, Inc.1.0...U....*.facebook.com0Y0...*.H.=....*.H
+0140: .=....B...u.0N.1".Z...+.... \..(..da.>..1.F.n:..N.z..$.P..*T4..r
+0180: D.{j.>.......0...0...U.#..0...Qh.....u<..edb...Yr;0...U......{..
+01c0: .jH......B....t.[0....U.....0....*.facebook.com..*.messenger.com
+0200: ..*.facebook.net..messenger.com..*.fbsbx.com..*.xz.fbcdn.net..*.
+0240: fbcdn.net..fb.com..*.fb.com..*.m.facebook.com..facebook.com..*.x
+0280: y.fbcdn.net..*.xx.fbcdn.net0...U...........0...U.%..0...+.......
+02c0: ..+.......0u..U...n0l04.2.0..http://crl3.digicert.com/sha2-ha-se
+0300: rver-g6.crl04.2.0..http://crl4.digicert.com/sha2-ha-server-g6.cr
+0340: l0L..U. .E0C07..`.H...l..0*0(..+.........https://www.digicert.co
+0380: m/CPS0...g.....0....+........w0u0$..+.....0...http://ocsp.digice
+03c0: rt.com0M..+.....0..Ahttp://cacerts.digicert.com/DigiCertSHA2High
+0400: AssuranceServerCA.crt0...U.......0.0.....+.....y............u..K
+0440: ..u.`..Bi....f..~_.r....{.z......hrE.......F0D. y.1...Yl|...8...
+0480: S..>..<f..Pn<.... d..-......4....R...m.!...........v..u..Y|..C._
+04c0: ..n.V.GV6.J.`....^......hrE.......G0E. o:.........w'..+ .j=....;
+0500: ....L...!.....!...2.UE.C4.[..x\..>.I.....V0...*.H...............
+0540: ..;.B.,X:...<yR.9...Q...y8..5..0{...6.. md.y..:.R.x.."z(fj...
+0580: O|J........af..]B....z............p.f..u..r/.....lY...Im.Ry.Fo^.
+05c0: d...b........cI.g...1.t.....w.........#.E.j...u...8gU..q...Y.M..
+0600: .o...@]...,.s.w...C^x.r..q..&.g:.....^@..'....Ec.l..8.. ....W...
+0640: ...0...0...............\..m.+B.]..0...*.H........0l1.0...U....US
+0680: 1.0...U....DigiCert Inc1.0...U....www.digicert.com1+0)..U..."Dig
+06c0: iCert High Assurance EV Root CA0...131022120000Z..281022120000Z0
+0700: p1.0...U....US1.0...U....DigiCert Inc1.0...U....www.digicert.com
+0740: 1/0-..U...&DigiCert SHA2 High Assurance Server CA0.."0...*.H....
+0780: .........0........../.$..m._...d..}"&e..B@.....v.>.0U...O..Z..UV
+07c0: ...*.....@...;r............C:.......@....M._W..Ph...............
+0800: .-..........^DX*7..5...'2Z......Q.'..;B3..(..(...+#.x.{.^q.J>...
+0840: .....#.M.....u.......D5eS%9....c...th.7..RH.9Z...]... .!..&o.J!
+0880: A..m..H/....h.S/^.........I0..E0...U.......0.......0...U........
+08c0: ...0...U.%..0...+.........+.......04..+........(0&0$..+.....0...
+0900: http://ocsp.digicert.com0K..U...D0B0@.>.<.:http://crl4.digicert.
+0940: com/DigiCertHighAssuranceEVRootCA.crl0=..U. .60402..U. .0*0(..+.
+0980: ........https://www.digicert.com/CPS0...U......Qh.....u<..edb...
+09c0: Yr;0...U.#..0....>.i...G...&....cd+.0...*.H...................m.
+0a00: \..h.J...Q/.kD...c..nl.....q.[.4N..y.).-.j.. .y...G.....Yq}...k.
+0a40: YX=..1%\.8.......[.1N.x.....I..'..r.>..A...6...nGI^.H|....I..&B
+0a80: @.....d.WT.....^k......r.V....0..0..N.W..$...+..u..-..}y'......
+0ac0: ...... (AYC(......{;w.@b..AE....>..3.g.a.r..i...W@.p......
+== Info: TLSv1.3 (IN), TLS handshake, CERT verify (15):
+<= Recv SSL data, 79 bytes (0x4f)
+0000: ...K...G0E. %.....'..`>+...e......Q.nU.L...f.!..M....Q{......M;.
+0040: U1#R&.......|.w
+== Info: TLSv1.3 (IN), TLS handshake, Finished (20):
+<= Recv SSL data, 36 bytes (0x24)
+0000: ... ..vL...yJ.........j:.TT.]c......
+=> Send SSL data, 5 bytes (0x5)
+0000: .....
+== Info: TLSv1.3 (OUT), TLS change cipher, Change cipher spec (1):
+=> Send SSL data, 1 bytes (0x1)
+0000: .
+=> Send SSL data, 5 bytes (0x5)
+0000: ....5
+=> Send SSL data, 1 bytes (0x1)
+0000: .
+== Info: TLSv1.3 (OUT), TLS handshake, Finished (20):
+=> Send SSL data, 36 bytes (0x24)
+0000: ... ... .....'al..$....3.......%.~..
+== Info: SSL connection using TLSv1.3 / TLS_AES_128_GCM_SHA256
+== Info: ALPN, server accepted to use h2
+== Info: Server certificate:
+== Info:  subject: C=US; ST=CA; L=Menlo Park; O=Facebook, Inc.; CN=*.facebook.com
+== Info:  start date: Jan 21 00:00:00 2019 GMT
+== Info:  expire date: Apr 21 12:00:00 2019 GMT
+== Info:  subjectAltName: host "www.facebook.com" matched cert's "*.facebook.com"
+== Info:  issuer: C=US; O=DigiCert Inc; OU=www.digicert.com; CN=DigiCert SHA2 High Assurance Server CA
+== Info:  SSL certificate verify ok.
+== Info: Using HTTP2, server supports multi-use
+== Info: Connection state changed (HTTP/2 confirmed)
+== Info: Copying HTTP/2 data in stream buffer to connection buffer after upgrade: len=0
+=> Send SSL data, 5 bytes (0x5)
+0000: ....)
+=> Send SSL data, 1 bytes (0x1)
+0000: .
+=> Send SSL data, 5 bytes (0x5)
+0000: ....,
+=> Send SSL data, 1 bytes (0x1)
+0000: .
+=> Send SSL data, 5 bytes (0x5)
+0000: .....
+=> Send SSL data, 1 bytes (0x1)
+0000: .
+== Info: Using Stream ID: 1 (easy handle 0x51cff0)
+=> Send SSL data, 5 bytes (0x5)
+0000: ....:
+=> Send SSL data, 1 bytes (0x1)
+0000: .
+=> Send header, 78 bytes (0x4e)
+0000: GET / HTTP/2
+000e: Host: www.facebook.com
+0026: User-Agent: curl/7.64.0
+003f: Accept: */*
+004c: 
+<= Recv SSL data, 5 bytes (0x5)
+0000: .....
+<= Recv SSL data, 1 bytes (0x1)
+0000: .
+== Info: TLSv1.3 (IN), TLS handshake, Newsession Ticket (4):
+<= Recv SSL data, 141 bytes (0x8d)
+0000: .........R#p..|,.:]K..n-.S...V.....a^.fv...9.........1q.....j.&.
+0040: 9=.V.j..WX*."e....-..mJ..t..:<.9....R...P..Qe_0.xj..W..D.4.....|
+0080: .L.|...I....
+<= Recv SSL data, 5 bytes (0x5)
+0000: ....E
+<= Recv SSL data, 1 bytes (0x1)
+0000: .
+== Info: Connection state changed (MAX_CONCURRENT_STREAMS == 100)!
+=> Send SSL data, 5 bytes (0x5)
+0000: .....
+=> Send SSL data, 1 bytes (0x1)
+0000: .
+<= Recv SSL data, 5 bytes (0x5)
+0000: ....'
+<= Recv SSL data, 1 bytes (0x1)
+0000: .
+<= Recv SSL data, 5 bytes (0x5)
+0000: .....
+<= Recv SSL data, 1 bytes (0x1)
+0000: .
+<= Recv header, 13 bytes (0xd)
+0000: HTTP/2 200 
+<= Recv header, 61 bytes (0x3d)
+0000: cache-control: private, no-cache, no-store, must-revalidate
+<= Recv header, 18 bytes (0x12)
+0000: pragma: no-cache
+<= Recv header, 54 bytes (0x36)
+0000: strict-transport-security: max-age=15552000; preload
+<= Recv header, 23 bytes (0x17)
+0000: vary: Accept-Encoding
+<= Recv header, 33 bytes (0x21)
+0000: x-content-type-options: nosniff
+<= Recv header, 23 bytes (0x17)
+0000: x-frame-options: DENY
+<= Recv header, 21 bytes (0x15)
+0000: x-xss-protection: 0
+<= Recv header, 40 bytes (0x28)
+0000: expires: Sat, 01 Jan 2000 00:00:00 GMT
+<= Recv header, 173 bytes (0xad)
+0000: set-cookie: fr=16yodv4nNzhkNpohx..BcaAuk.-O.AAA.0.0.BcaAuk.AWUgh
+0040: 3hn; expires=Fri, 17-May-2019 13:09:56 GMT; Max-Age=7776000; pat
+0080: h=/; domain=.facebook.com; secure; httponly
+<= Recv header, 146 bytes (0x92)
+0000: set-cookie: sb=pAtoXDJUTZJbv8OW6DzcHzuB; expires=Mon, 15-Feb-202
+0040: 1 13:09:56 GMT; Max-Age=63072000; path=/; domain=.facebook.com; 
+0080: secure; httponly
+<= Recv header, 42 bytes (0x2a)
+0000: content-type: text/html; charset="utf-8"
+<= Recv header, 102 bytes (0x66)
+0000: x-fb-debug: 8OW5p0QqnaX9xQtziGbQdgRDvPUqvDfCW0rH5zFbxneoQfAjc4VS
+0040: gRd12WSuZ7Wy8tgI15f6wm0GTtFTVTT3qg==
+<= Recv header, 37 bytes (0x25)
+0000: date: Sat, 16 Feb 2019 13:09:56 GMT
+<= Recv header, 2 bytes (0x2)
+0000: 
+<= Recv data, 970 bytes (0x3ca)
+0000: <!DOCTYPE html>.<html lang="ru" id="facebook" class="no_js">.<he
+0040: ad><meta charset="utf-8" /><meta name="referrer" content="defaul
+0080: t" id="meta_referrer" /><script>window._cstart=+new Date();</scr
+00c0: ipt><script>function envFlush(a){function b(b){for(var c in a)b[
+0100: c]=a[c]}window.requireLazy?window.requireLazy(["Env"],b):(window
+0140: .Env=window.Env||{},b(window.Env))}envFlush({"ajaxpipe_token":"A
+0180: Xj-RW0hmbTNRaEv","timeslice_heartbeat_config":{"pollIntervalMs":
+01c0: 33,"idleGapThresholdMs":60,"ignoredTimesliceNames":{"requestAnim
+0200: ationFrame":true,"Event listenHandler mousemove":true,"Event lis
+0240: tenHandler mouseover":true,"Event listenHandler mouseout":true,"
+0280: Event listenHandler scroll":true},"isHeartbeatEnabled":true,"isA
+02c0: rtilleryOn":false},"shouldLogCounters":true,"timeslice_categorie
+0300: s":{"react_render":true,"reflow":true},"sample_continuation_stac
+0340: ktraces":true,"dom_mutation_flag":true,"stack_trace_limit":30,"d
+0380: eferred_stack_trace_rate":1000,"timesliceBufferSize":5000,"show_
+03c0: invariant_
+<= Recv SSL data, 5 bytes (0x5)
+0000: .....
+<= Recv SSL data, 1 bytes (0x1)
+0000: .
+<= Recv data, 1038 bytes (0x40e)
+0000: decoder":false,"isCQuick":false});</script><style></style><scrip
+0040: t>__DEV__=0;CavalryLogger=window.CavalryLogger||function(a){this
+0080: .lid=a,this.transition=!1,this.metric_collected=!1,this.is_detai
+00c0: led_profiler=!1,this.instrumentation_started=!1,this.pagelet_met
+0100: rics={},this.events={},this.ongoing_watch={},this.values={t_csta
+0140: rt:window._cstart},this.piggy_values={},this.bootloader_metrics=
+0180: {},this.resource_to_pagelet_mapping={},this.initializeInstrument
+01c0: ation&&this.initializeInstrumentation()},CavalryLogger.prototype
+0200: .setIsDetailedProfiler=function(a){this.is_detailed_profiler=a;r
+0240: eturn this},CavalryLogger.prototype.setTTIEvent=function(a){this
+0280: .tti_event=a;return this},CavalryLogger.prototype.setValue=funct
+02c0: ion(a,b,c,d){d=d?this.piggy_values:this.values;(typeof d[a]==="u
+0300: ndefined"||c)&&(d[a]=b);return this},CavalryLogger.prototype.get
+0340: LastTtiValue=function(){return this.lastTtiValue},CavalryLogger.
+0380: prototype.setTimeStamp=CavalryLogger.prototype.setTimeStamp||fun
+03c0: ction(a,b,c,d){this.mark(a);var e=this.values.t_cstart||this.val
+0400: ues.t_start;e=
+<= Recv SSL data, 5 bytes (0x5)
+0000: .....
+<= Recv SSL data, 1 bytes (0x1)
+0000: .
+<= Recv data, 1491 bytes (0x5d3)
+0000: d?e+d:CavalryLogger.now();this.setValue(a,e,b,c);this.tti_event&
+0040: &a==this.tti_event&&(this.lastTtiValue=e,this.setTimeStamp("t_tt
+0080: i",b));return this},CavalryLogger.prototype.mark=typeof console=
+00c0: =="object"&&console.timeStamp?function(a){console.timeStamp(a)}:
+0100: function(){},CavalryLogger.prototype.addPiggyback=function(a,b){
+0140: this.piggy_values[a]=b;return this},CavalryLogger.instances={},C
+0180: avalryLogger.id=0,CavalryLogger.disableArtilleryOnUntilOffLoggin
+01c0: g=!1,CavalryLogger.getInstance=function(a){typeof a==="undefined
+0200: "&&(a=CavalryLogger.id);CavalryLogger.instances[a]||(CavalryLogg
+0240: er.instances[a]=new CavalryLogger(a));return CavalryLogger.insta
+0280: nces[a]},CavalryLogger.setPageID=function(a){if(CavalryLogger.id
+02c0: ===0){var b=CavalryLogger.getInstance();CavalryLogger.instances[
+0300: a]=b;CavalryLogger.instances[a].lid=a;delete CavalryLogger.insta
+0340: nces[0]}CavalryLogger.id=a},CavalryLogger.now=function(){return 
+0380: window.performance&&performance.timing&&performance.timing.navig
+03c0: ationStart&&performance.now?performance.now()+performance.timing
+0400: .navigationStart:new Date().getTime()},CavalryLogger.prototype.m
+0440: easureResources=function(){},CavalryLogger.prototype.profileEarl
+0480: yResources=function(){},CavalryLogger.getBootloaderMetricsFromAl
+04c0: lLoggers=function(){},CavalryLogger.start_js=function(){},Cavalr
+0500: yLogger.done_js=function(){};CavalryLogger.getInstance().setTTIE
+0540: vent("t_domcontent");CavalryLogger.prototype.measureResources=fu
+0580: nction(a,b){if(!this.log_resources)return;var c="bootload/"+a.na
+05c0: me;if(this.bootload
+<= Recv SSL data, 5 bytes (0x5)
+0000: .....
+<= Recv SSL data, 1 bytes (0x1)
+0000: .
+<= Recv data, 1500 bytes (0x5dc)
+0000: er_metrics[c]!==void 0||this.ongoing_watch[c]!==void 0)return;va
+0040: r d=CavalryLogger.now();this.ongoing_watch[c]=d;"start_"+c in th
+0080: is.bootloader_metrics||(this.bootloader_metrics["start_"+c]=d);b
+00c0: &&!("tag_"+c in this.bootloader_metrics)&&(this.bootloader_metri
+0100: cs["tag_"+c]=b);if(a.type==="js"){c="js_exec/"+a.name;this.ongoi
+0140: ng_watch[c]=d}},CavalryLogger.prototype.stopWatch=function(a){if
+0180: (this.ongoing_watch[a]){var b=CavalryLogger.now(),c=b-this.ongoi
+01c0: ng_watch[a];this.bootloader_metrics[a]=c;var d=this.piggy_values
+0200: ;a.indexOf("bootload")===0&&(d.t_resource_download||(d.t_resourc
+0240: e_download=0),d.resources_downloaded||(d.resources_downloaded=0)
+0280: ,d.t_resource_download+=c,d.resources_downloaded+=1,d["tag_"+a]=
+02c0: ="_EF_"&&(d.t_pagelet_cssload_early_resources=b));delete this.on
+0300: going_watch[a]}return this},CavalryLogger.getBootloaderMetricsFr
+0340: omAllLoggers=function(){var a={};Object.values(window.CavalryLog
+0380: ger.instances).forEach(function(b){b.bootloader_metrics&&Object.
+03c0: assign(a,b.bootloader_metrics)});return a},CavalryLogger.start_j
+0400: s=function(a){for(var b=0;b<a.length;++b)CavalryLogger.getInstan
+0440: ce().stopWatch("js_exec/"+a[b])},CavalryLogger.done_js=function(
+0480: a){for(var b=0;b<a.length;++b)CavalryLogger.getInstance().stopWa
+04c0: tch("bootload/"+a[b])},CavalryLogger.prototype.profileEarlyResou
+0500: rces=function(a){for(var b=0;b<a.length;b++)this.measureResource
+0540: s({name:a[b][0],type:a[b][1]?"js":""},"_EF_")};CavalryLogger.get
+0580: Instance().log_resources=true;CavalryLogger.getInstance().setIsD
+05c0: etailedProfiler(true);window
+<= Recv SSL data, 5 bytes (0x5)
+0000: .....
+<= Recv SSL data, 1 bytes (0x1)
+0000: .
+<= Recv data, 1500 bytes (0x5dc)
+0000: .CavalryLogger&&CavalryLogger.getInstance().setTimeStamp("t_star
+0040: t");</script><noscript><meta http-equiv="refresh" content="0; UR
+0080: L=/?_fb_noscript=1" /></noscript><title id="pageTitle">Facebook 
+00c0: ... .................. ........ ...... .........................
+0100: .........</title><meta property="og:site_name" content="Facebook
+0140: " /><meta property="og:url" content="https://www.facebook.com/" 
+0180: /><meta property="og:image" content="https://www.facebook.com/im
+01c0: ages/fb_icon_325x325.png" /><meta property="og:locale" content="
+0200: ru_RU" /><meta property="og:locale:alternate" content="www" /><m
+0240: eta property="og:locale:alternate" content="es_LA" /><meta prope
+0280: rty="og:locale:alternate" content="es_ES" /><meta property="og:l
+02c0: ocale:alternate" content="fr_FR" /><meta property="og:locale:alt
+0300: ernate" content="it_IT" /><meta property="og:locale:alternate" c
+0340: ontent="id_ID" /><meta property="og:locale:alternate" content="t
+0380: h_TH" /><meta property="og:locale:alternate" content="vi_VN" /><
+03c0: meta property="og:locale:alternate" content="ko_KR" /><meta prop
+0400: erty="og:locale:alternate" content="ja_JP" /><link rel="search" 
+0440: type="application/opensearchdescription+xml" href="/osd.xml" tit
+0480: le="Facebook" /><link rel="canonical" href="https://www.facebook
+04c0: .com/" /><link rel="alternate" media="only screen and (max-width
+0500: : 640px)" href="https://m.facebook.com/" /><link rel="alternate"
+0540:  media="handheld" href="https://m.facebook.com/" /><link rel="al
+0580: ternate" hreflang="x-default" href="https://www.facebook.com/" /
+05c0: ><link rel="alternate" hrefl
+<= Recv SSL data, 5 bytes (0x5)
+0000: .....
+<= Recv SSL data, 1 bytes (0x1)
+0000: .
+<= Recv data, 245 bytes (0xf5)
+0000: ang="en" href="https://www.facebook.com/" /><link rel="alternate
+0040: " hreflang="ar" href="https://ar-ar.facebook.com/" /><link rel="
+0080: alternate" hreflang="bg" href="https://bg-bg.facebook.com/" /><l
+00c0: ink rel="alternate" hreflang="bs" href="https://bs-ba
+<= Recv SSL data, 5 bytes (0x5)
+0000: .....
+<= Recv SSL data, 1 bytes (0x1)
+0000: .
+<= Recv data, 1491 bytes (0x5d3)
+0000: .facebook.com/" /><link rel="alternate" hreflang="ca" href="http
+0040: s://ca-es.facebook.com/" /><link rel="alternate" hreflang="da" h
+0080: ref="https://da-dk.facebook.com/" /><link rel="alternate" hrefla
+00c0: ng="el" href="https://el-gr.facebook.com/" /><link rel="alternat
+0100: e" hreflang="es" href="https://es-la.facebook.com/" /><link rel=
+0140: "alternate" hreflang="es-es" href="https://es-es.facebook.com/" 
+0180: /><link rel="alternate" hreflang="fa" href="https://fa-ir.facebo
+01c0: ok.com/" /><link rel="alternate" hreflang="fi" href="https://fi-
+0200: fi.facebook.com/" /><link rel="alternate" hreflang="fr" href="ht
+0240: tps://fr-fr.facebook.com/" /><link rel="alternate" hreflang="fr-
+0280: ca" href="https://fr-ca.facebook.com/" /><link rel="alternate" h
+02c0: reflang="hi" href="https://hi-in.facebook.com/" /><link rel="alt
+0300: ernate" hreflang="hr" href="https://hr-hr.facebook.com/" /><link
+0340:  rel="alternate" hreflang="id" href="https://id-id.facebook.com/
+0380: " /><link rel="alternate" hreflang="it" href="https://it-it.face
+03c0: book.com/" /><link rel="alternate" hreflang="ko" href="https://k
+0400: o-kr.facebook.com/" /><link rel="alternate" hreflang="mk" href="
+0440: https://mk-mk.facebook.com/" /><link rel="alternate" hreflang="m
+0480: s" href="https://ms-my.facebook.com/" /><link rel="alternate" hr
+04c0: eflang="pl" href="https://pl-pl.facebook.com/" /><link rel="alte
+0500: rnate" hreflang="pt" href="https://pt-br.facebook.com/" /><link 
+0540: rel="alternate" hreflang="pt-pt" href="https://pt-pt.facebook.co
+0580: m/" /><link rel="alternate" hreflang="ro" href="https://ro-ro.fa
+05c0: cebook.com/" /><lin
+<= Recv SSL data, 5 bytes (0x5)
+0000: .....
+<= Recv SSL data, 1 bytes (0x1)
+0000: .
+<= Recv data, 1500 bytes (0x5dc)
+0000: k rel="alternate" hreflang="sl" href="https://sl-si.facebook.com
+0040: /" /><link rel="alternate" hreflang="sr" href="https://sr-rs.fac
+0080: ebook.com/" /><link rel="alternate" hreflang="th" href="https://
+00c0: th-th.facebook.com/" /><link rel="alternate" hreflang="vi" href=
+0100: "https://vi-vn.facebook.com/" /><meta name="description" content
+0140: ="&#x421;&#x43e;&#x437;&#x434;&#x430;&#x439;&#x442;&#x435; &#x43
+0180: 0;&#x43a;&#x43a;&#x430;&#x443;&#x43d;&#x442; &#x438;&#x43b;&#x43
+01c0: 8; &#x432;&#x43e;&#x439;&#x434;&#x438;&#x442;&#x435; &#x43d;&#x4
+0200: 30; Facebook. &#x41e;&#x431;&#x449;&#x430;&#x439;&#x442;&#x435;&
+0240: #x441;&#x44c; &#x441; &#x434;&#x440;&#x443;&#x437;&#x44c;&#x44f;
+0280: &#x43c;&#x438;, &#x440;&#x43e;&#x434;&#x441;&#x442;&#x432;&#x435
+02c0: ;&#x43d;&#x43d;&#x438;&#x43a;&#x430;&#x43c;&#x438; &#x438; &#x43
+0300: 4;&#x440;&#x443;&#x433;&#x438;&#x43c;&#x438; &#x43b;&#x44e;&#x43
+0340: 4;&#x44c;&#x43c;&#x438;, &#x43a;&#x43e;&#x442;&#x43e;&#x440;&#x4
+0380: 4b;&#x445; &#x432;&#x44b; &#x437;&#x43d;&#x430;&#x435;&#x442;&#x
+03c0: 435;. &#x414;&#x435;&#x43b;&#x438;&#x442;&#x435;&#x441;&#x44c; &
+0400: #x444;&#x43e;&#x442;&#x43e; &#x438; &#x432;&#x438;&#x434;&#x435;
+0440: &#x43e;, &#x43e;&#x442;&#x43f;&#x440;&#x430;&#x432;&#x43b;&#x44f
+0480: ;&#x439;&#x442;&#x435;..." /><meta name="robots" content="noodp,
+04c0: noydir" /><link rel="shortcut icon" href="https://static.xx.fbcd
+0500: n.net/rsrc.php/yz/r/KFyVIAWzntM.ico" /><link type="text/css" rel
+0540: ="stylesheet" href="https://static.xx.fbcdn.net/rsrc.php/v3/ys/l
+0580: /0,cross/QhBCDHz1DT8.css" data-bootloader-hash="PgEcc" />.<link 
+05c0: type="text/css" rel="stylesh
+<= Recv SSL data, 5 bytes (0x5)
+0000: .....
+<= Recv SSL data, 1 bytes (0x1)
+0000: .
+<= Recv data, 1500 bytes (0x5dc)
+0000: eet" href="https://static.xx.fbcdn.net/rsrc.php/v3/yN/l/0,cross/
+0040: 1azFMc5n3Av.css" data-bootloader-hash="h/bNK" />.<link type="tex
+0080: t/css" rel="stylesheet" href="https://static.xx.fbcdn.net/rsrc.p
+00c0: hp/v3/yF/l/0,cross/E3C3nPHH9yP.css" data-bootloader-hash="7Vaz7"
+0100:  />.<link type="text/css" rel="stylesheet" href="https://static.
+0140: xx.fbcdn.net/rsrc.php/v3/yQ/l/0,cross/DJGQMgOmLZY.css" data-boot
+0180: loader-hash="NLzH4" />.<link type="text/css" rel="stylesheet" hr
+01c0: ef="https://static.xx.fbcdn.net/rsrc.php/v3/ye/l/0,cross/ZNNdi8O
+0200: 9OgA.css" data-bootloader-hash="nWGfF" />.<link type="text/css" 
+0240: rel="stylesheet" href="https://static.xx.fbcdn.net/rsrc.php/v3/y
+0280: T/l/0,cross/DCBQB_HOvLX.css" data-bootloader-hash="66t5b" />.<li
+02c0: nk type="text/css" rel="stylesheet" href="https://static.xx.fbcd
+0300: n.net/rsrc.php/v3/y9/l/0,cross/VgEiXZ5UWCu.css" data-bootloader-
+0340: hash="owMvp" />.<script src="https://static.xx.fbcdn.net/rsrc.ph
+0380: p/v3/yp/r/OqyEB7JLf_y.js" data-bootloader-hash="Wpfbe"></script>
+03c0: .<script>requireLazy(["ix"],function(ix){ix.add({"86853":{"sprit
+0400: ed":true,"spriteCssClass":"sx_e486f8","spriteMapCssClass":"sp_MJ
+0440: VeZ_wk9YS"},"86857":{"sprited":true,"spriteCssClass":"sx_046354"
+0480: ,"spriteMapCssClass":"sp_MJVeZ_wk9YS"},"86854":{"sprited":true,"
+04c0: spriteCssClass":"sx_13f091","spriteMapCssClass":"sp_MJVeZ_wk9YS"
+0500: },"86852":{"sprited":true,"spriteCssClass":"sx_124f86","spriteMa
+0540: pCssClass":"sp_MJVeZ_wk9YS"},"86924":{"sprited":true,"spriteCssC
+0580: lass":"sx_b8cfcc","spriteMapCssClass":"sp_MJVeZ_wk9YS"},"86933":
+05c0: {"sprited":true,"spriteCssCl
+<= Recv SSL data, 5 bytes (0x5)
+0000: .....
+<= Recv SSL data, 1 bytes (0x1)
+0000: .
+<= Recv data, 1500 bytes (0x5dc)
+0000: ass":"sx_39c254","spriteMapCssClass":"sp_MJVeZ_wk9YS"},"141787":
+0040: {"sprited":true,"spriteCssClass":"sx_867123","spriteMapCssClass"
+0080: :"sp_MJVeZ_wk9YS"},"496757":{"sprited":true,"spriteCssClass":"sx
+00c0: _bac761","spriteMapCssClass":"sp_NHW9MwNk57f"},"503180":{"sprite
+0100: d":true,"spriteCssClass":"sx_4c80b0","spriteMapCssClass":"sp_NHW
+0140: 9MwNk57f"},"124209":{"sprited":true,"spriteCssClass":"sx_f513cc"
+0180: ,"spriteMapCssClass":"sp_RUAPWixR7E-"},"124199":{"sprited":true,
+01c0: "spriteCssClass":"sx_13ce2e","spriteMapCssClass":"sp_RUAPWixR7E-
+0200: "},"122194":{"sprited":true,"spriteCssClass":"sx_ce6425","sprite
+0240: MapCssClass":"sp_hFqfI0wYy9O"},"499680":{"sprited":true,"spriteC
+0280: ssClass":"sx_9d842e","spriteMapCssClass":"sp_RUAPWixR7E-"},"4901
+02c0: 91":{"sprited":true,"spriteCssClass":"sx_2b4911","spriteMapCssCl
+0300: ass":"sp_RUAPWixR7E-"},"499681":{"sprited":true,"spriteCssClass"
+0340: :"sx_03296d","spriteMapCssClass":"sp_RUAPWixR7E-"},"499672":{"sp
+0380: rited":true,"spriteCssClass":"sx_9283cf","spriteMapCssClass":"sp
+03c0: _RUAPWixR7E-"},"490190":{"sprited":true,"spriteCssClass":"sx_84f
+0400: 7b3","spriteMapCssClass":"sp_RUAPWixR7E-"},"499673":{"sprited":t
+0440: rue,"spriteCssClass":"sx_8c3386","spriteMapCssClass":"sp_RUAPWix
+0480: R7E-"},"489948":{"sprited":true,"spriteCssClass":"sx_774c04","sp
+04c0: riteMapCssClass":"sp_RUAPWixR7E-"},"499675":{"sprited":true,"spr
+0500: iteCssClass":"sx_760a7d","spriteMapCssClass":"sp_RUAPWixR7E-"},"
+0540: 499674":{"sprited":true,"spriteCssClass":"sx_5d5077","spriteMapC
+0580: ssClass":"sp_RUAPWixR7E-"},"489947":{"sprited":true,"spriteCssCl
+05c0: ass":"sx_10dc31","spriteMapC
+<= Recv SSL data, 5 bytes (0x5)
+0000: .....
+<= Recv SSL data, 1 bytes (0x1)
+0000: .
+<= Recv data, 1500 bytes (0x5dc)
+0000: ssClass":"sp_RUAPWixR7E-"},"499667":{"sprited":true,"spriteCssCl
+0040: ass":"sx_2ad049","spriteMapCssClass":"sp_RUAPWixR7E-"},"499666":
+0080: {"sprited":true,"spriteCssClass":"sx_4f5849","spriteMapCssClass"
+00c0: :"sp_RUAPWixR7E-"},"480267":{"sprited":true,"spriteCssClass":"sx
+0100: _2cd014","spriteMapCssClass":"sp_RUAPWixR7E-"},"480789":{"sprite
+0140: d":true,"spriteCssClass":"sx_87ee60","spriteMapCssClass":"sp_RUA
+0180: PWixR7E-"},"481013":{"sprited":true,"spriteCssClass":"sx_3b4995"
+01c0: ,"spriteMapCssClass":"sp_RUAPWixR7E-"},"403739":{"sprited":true,
+0200: "spriteCssClass":"sx_f81c15","spriteMapCssClass":"sp_RUAPWixR7E-
+0240: "},"407178":{"sprited":true,"spriteCssClass":"sx_0e67da","sprite
+0280: MapCssClass":"sp_RUAPWixR7E-"},"407620":{"sprited":true,"spriteC
+02c0: ssClass":"sx_16be29","spriteMapCssClass":"sp_RUAPWixR7E-"},"4037
+0300: 43":{"sprited":true,"spriteCssClass":"sx_d76844","spriteMapCssCl
+0340: ass":"sp_RUAPWixR7E-"},"376185":{"sprited":true,"spriteCssClass"
+0380: :"sx_2dbcd3","spriteMapCssClass":"sp_RUAPWixR7E-"},"390679":{"sp
+03c0: rited":true,"spriteCssClass":"sx_f8cadc","spriteMapCssClass":"sp
+0400: _RUAPWixR7E-"},"403741":{"sprited":true,"spriteCssClass":"sx_195
+0440: 5d8","spriteMapCssClass":"sp_RUAPWixR7E-"},"403742":{"sprited":t
+0480: rue,"spriteCssClass":"sx_686b54","spriteMapCssClass":"sp_RUAPWix
+04c0: R7E-"},"363586":{"sprited":true,"spriteCssClass":"sx_766ed6","sp
+0500: riteMapCssClass":"sp_RUAPWixR7E-"},"378280":{"sprited":true,"spr
+0540: iteCssClass":"sx_940d14","spriteMapCssClass":"sp_RUAPWixR7E-"},"
+0580: 394327":{"sprited":true,"spriteCssClass":"sx_5d96ba","spriteMapC
+05c0: ssClass":"sp_RUAPWixR7E-"},"
+<= Recv SSL data, 5 bytes (0x5)
+0000: .....
+== Info: OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054
+== Info: Failed receiving HTTP2 data
+=> Send SSL data, 5 bytes (0x5)
+0000: .....
+=> Send SSL data, 1 bytes (0x1)
+0000: .
+== Info: SSL_write() returned SYSCALL, errno = 10054
+== Info: Failed sending HTTP2 data
+== Info: Connection #1 to host www.facebook.com left intact
